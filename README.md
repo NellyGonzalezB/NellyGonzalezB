@@ -1,5 +1,5 @@
-###Hi 👋, I'm Nelly!
-##Graphic designer and Front-end developer student
+<h3 align="center">Hi 👋, I'm Nelly!</h3>
+<h4 align="center">Graphic designer and Front-end developer student</h4>
 
 - 🔭 I’m currently studying **at Laboratoria**
 
