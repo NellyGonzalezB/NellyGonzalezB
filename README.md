@@ -1,5 +1,5 @@
-<h3 align="center">Hi 👋, I'm Nelly!</h3>
-<h4 align="center">Graphic designer and Front-end developer student</h4>
+<h2 align="center">Hi 👋, I'm Nelly!</h2>
+<h2 align="center">Front-end Developer, Back-end student and Graphic designer</h2>
 
 - 🔭 I’m currently studying **at Laboratoria**
 
