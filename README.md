@@ -1,5 +1,5 @@
-<h2 align="center">Hi <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
-, I'm Nelly!</h2>
+<h2 align="center">Hi , I'm Nelly!</h2>
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="70" height="70"
 <img src="https://i.ibb.co/hDVV6GD/Frame-15.png" alt="My cool frame"/>
 
 - 🔭 I’m currently studying **at Laboratoria**
