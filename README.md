@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Nelly!</h2>
-<h2 align="center">Front-end Developer, Back-end student and Graphic designer</h2>
+<img src="https://i.ibb.co/hDVV6GD/Frame-15.png" alt="My cool frame"/>
 
 - 🔭 I’m currently studying **at Laboratoria**
 
