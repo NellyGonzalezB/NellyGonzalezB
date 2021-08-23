@@ -1,6 +1,6 @@
 <h2 align="center">Hi , I'm Nelly! <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="70" height="70"/></h2>
 
-<img align="center" src="https://i.ibb.co/hDVV6GD/Frame-15.png" alt="My cool frame"/>
+<img align="center" src="https://i.ibb.co/X4yChNM/Frame.png"/>
 
 - 🔭 I’m currently studying **at Laboratoria**
 
