@@ -3,7 +3,8 @@
  <p align="center"> 
   <img src="https://profile-counter.glitch.me/NellyGonzalezB/count.svg" />
  </p>
-<h2 align="center">Glad to see you there!</h2><img align="center" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="70" height="70"/>
+ <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="70" height="70" align="center"/>
+<h2 align="center">Glad to see you there!</h2>
 
 I'm a Front-end / Back-end Developer 🚀 and Graphic designer 🎨 from Chile. I enjoy creating, learning and sharing. I am always looking for opportunities to grow and enhance my talents.
 
