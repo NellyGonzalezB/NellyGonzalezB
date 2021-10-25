@@ -3,21 +3,19 @@
  <p align="center"> 
   <img src="https://profile-counter.glitch.me/NellyGonzalezB/count.svg" />
  </p>
-<h2 align="center">Glad to see you there!</h2>
-
-<img align="center" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="70" height="70"/>
+<h2 align="center">Glad to see you there!</h2><img align="center" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="70" height="70"/>
 
 I'm a Front-end / Back-end Developer 🚀 and Graphic designer 🎨 from Chile. I enjoy creating, learning and sharing. I am always looking for opportunities to grow and enhance my talents.
 
-- 🔭 I’m currently working ** on something cool **
+- 🔭 I’m currently working **on something cool**
 
-- 🤓 I’m currently learning **databases and new programming languages **
+- 🤓 I’m currently learning **databases and new programming languages**
 
-- 💬 Ask me about ** www.linkedin.com/in/nellymabel **
+- 💬 Ask me about **www.linkedin.com/in/nellymabel**
 
 - 📫 How to reach me **nellygonzalezb.92@gmail.com**
 
-- ⚡ Fun facts ** I looove dogs! 🐶 and I'm always smiling 😁 **
+- ⚡ Fun facts **I looove dogs! 🐶 and I'm always smiling 😁**
 
 
 <h3 align="left">Languages and Tools:</h3>
