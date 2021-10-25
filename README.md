@@ -4,7 +4,7 @@
   <img src="https://profile-counter.glitch.me/NellyGonzalezB/count.svg" />
  </p>
  <p align="center">
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="animated" />
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="animated" width="35px" />
 </p>
 
 <h2 align="center">Glad to see you there!</h2>
