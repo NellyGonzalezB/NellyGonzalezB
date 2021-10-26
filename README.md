@@ -53,13 +53,13 @@ I'm a Front-end / Back-end Developer 🚀 and Graphic designer 🎨  from Chile.
 <h3 align="left">My Github Stats📈:</h3> 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NellyGonzalezB&theme=radical&show_icons=true)
 
 
 
 <h3 align="left">My Most Used Languages💛:</h3> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NellyGonzalezB&theme=radical)
 
 
 
