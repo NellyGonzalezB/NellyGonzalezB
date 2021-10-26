@@ -29,11 +29,11 @@ I'm a Front-end / Back-end Developer 🚀 and Graphic designer 🎨  from Chile.
 <h3 align="left">My Github Stats📈:</h3> 
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NellyGonzalezB&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" theme=blue-green/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NellyGonzalezB&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
 
 <h3 align="left">My Most Used Languages💛:</h3> 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_NellyGonzalezB&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NellyGonzalezB&theme=blue-green)
 
 
 <h2 align="center">Do you have a project in mind?💡 Do you want us to work together?📝<br>
