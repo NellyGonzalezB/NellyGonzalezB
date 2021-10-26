@@ -22,7 +22,7 @@ I'm a Front-end / Back-end Developer 🚀 and Graphic designer 🎨  from Chile.
 - ⚡ Fun facts **I looove dogs! 🐶 and I'm always smiling 😁**
 
 
-<h3 align="left">Languages and Tools 🛠:</h3>
+<h3 align="left">Languages and Tools 🛠</h3>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -50,14 +50,14 @@ I'm a Front-end / Back-end Developer 🚀 and Graphic designer 🎨  from Chile.
  
 
 
-<h3 align="left">My Github Stats📈:</h3> 
+<h3 align="left">My Github Stats📈</h3> 
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NellyGonzalezB&theme=radical&show_icons=true)
 
 
 
-<h3 align="left">My Most Used Languages💛:</h3> 
+<h3 align="left">My Most Used Languages💛</h3> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NellyGonzalezB&theme=radical)
 
