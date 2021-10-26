@@ -53,7 +53,7 @@ I'm a Front-end / Back-end Developer 🚀 and Graphic designer 🎨  from Chile.
 <h3 align="left">My Github Stats📈:</h3> 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical_icons=true)
+
 
 
 
