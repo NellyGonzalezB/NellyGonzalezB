@@ -7,9 +7,9 @@
   <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="animated" width="120px" />
 </p>
 
-<h2 align="center">Glad to see you there!</h2>
+<h2 align="center">Glad to see you here!</h2>
 
-I'm a Front-end / Back-end Developer 🚀 and Graphic designer 🎨 from Chile. I enjoy creating, learning and sharing. I am always looking for opportunities to grow and enhance my talents.
+I'm a Front-end / Back-end Developer 🚀 and Graphic designer 🎨  from Chile. I enjoy creating, learning and sharing. I am always looking for opportunities to grow and enhance my talents.
 
 - 🔭 I’m currently working **on something cool**
 
