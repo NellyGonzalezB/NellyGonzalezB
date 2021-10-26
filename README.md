@@ -22,7 +22,7 @@ I'm a Front-end / Back-end Developer 🚀 and Graphic designer 🎨  from Chile.
 - ⚡ Fun facts **I looove dogs! 🐶 and I'm always smiling 😁**
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools 🛠:</h3>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
