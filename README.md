@@ -9,7 +9,7 @@
 
 <h2 align="center">Glad to see you here!</h2>
 
-I'm a Front-end / Back-end Developer 🚀 and Graphic designer 🎨  from Chile. I enjoy creating, learning and sharing. I am always looking for opportunities to grow and enhance my talents.
+<h3> I'm a Front-end / Back-end Developer 🚀 and Graphic designer 🎨  from Chile. I enjoy creating, learning and sharing. I am always looking for opportunities to grow and enhance my talents. </h3>
 
 - 🔭 I’m currently working **on something cool**
 
