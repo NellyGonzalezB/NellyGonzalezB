@@ -1,4 +1,4 @@
-<img align="center" src="https://i.ibb.co/rFsjpkw/gh-banner.png" />
+<img align="center" src="https://i.ibb.co/f4TTqNs/gh-banner.png" />
  <!-- retro visitor counter -->
  <p align="center"> 
   <img src="https://profile-counter.glitch.me/NellyGonzalezB/count.svg" />
